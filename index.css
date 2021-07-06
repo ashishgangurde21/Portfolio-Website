@@ -18,6 +18,11 @@ header{
   padding: 20px;
   background-color: black;
 }
+.line h1{
+  background-color: black;
+  padding: 20px;
+  border: #ffffff;
+}
 .scrollmenu{
   width: 100%;
   word-spacing: 60px;
